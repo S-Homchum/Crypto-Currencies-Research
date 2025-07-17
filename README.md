@@ -1,0 +1,2 @@
+# Fitting Model to Crypto Currencies Data
+<code> This project studied the price behavior of some notable crypto currencies (BTC, ETH etc.). So, I analyzed the retrieved data from Binance and tried to fit those data to some stochastic models. All of these were executed in R and Python </code>
